@@ -11,7 +11,7 @@ Vue.component('perfiles-component',{
                             </div>
                         </div>  
                         <div  style="text-align:end" class="col-md-7">
-                            <h1>Busqueda de perfiles</h1>
+                            <h1>Buscar novia imaginaria :c</h1>
                         </div>
                     </div>
                  </template>
